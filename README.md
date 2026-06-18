@@ -15,7 +15,9 @@
 
 Đồ án xây dựng một **pipeline hoàn chỉnh** từ thu thập đến tiền xử lý dữ liệu **Báo cáo Kết quả Kinh doanh** (Income Statement) theo quý của **23 doanh nghiệp** niêm yết trên NYSE/NASDAQ thông qua **Alpha Vantage API**, nhằm tạo ra bộ dữ liệu sẵn sàng cho bài toán **dự đoán lợi nhuận quý tiếp theo**.
 
-**Nguồn dữ liệu:** Alpha Vantage Financial API (Income Statement, 23 doanh nghiệp NYSE/NASDAQ)
+**Nguồn dữ liệu:** 
+- Corporate Financials Statements (AlphaVantage) (https://www.kaggle.com/datasets/emranalbiek/companies-financial-income-statements/data)
+- Alpha Vantage Financial API (Income Statement, 23 doanh nghiệp NYSE/NASDAQ)
 
 **Biến mục tiêu:**
 - `next_quarter_net_income` — lợi nhuận ròng quý tới (bài toán **hồi quy**)
