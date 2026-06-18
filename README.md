@@ -12,7 +12,7 @@
 
 ## 1. Giới thiệu
 
-Dự án xây dựng một **pipeline hoàn chỉnh** từ thu thập đến tiền xử lý dữ liệu **Báo cáo Kết quả Kinh doanh** (Income Statement) theo quý của **23 doanh nghiệp** niêm yết trên NYSE/NASDAQ thông qua **Alpha Vantage API**, nhằm tạo ra bộ dữ liệu sẵn sàng cho bài toán **dự đoán lợi nhuận quý tiếp theo**.
+Đồ án xây dựng một **pipeline hoàn chỉnh** từ thu thập đến tiền xử lý dữ liệu **Báo cáo Kết quả Kinh doanh** (Income Statement) theo quý của **23 doanh nghiệp** niêm yết trên NYSE/NASDAQ thông qua **Alpha Vantage API**, nhằm tạo ra bộ dữ liệu sẵn sàng cho bài toán **dự đoán lợi nhuận quý tiếp theo**.
 
 **Nguồn dữ liệu:** Alpha Vantage Financial API (Income Statement, 23 doanh nghiệp NYSE/NASDAQ)
 
